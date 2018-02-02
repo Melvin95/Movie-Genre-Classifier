@@ -9,12 +9,12 @@ Naïve Bayes Classifier
 
 Libraries
 
-  Stanford Core NLP API (2016)
+  Stanford Core NLP API (2016) & 
   Lucene 6.5.0
   
   
   
 Incomplete
 
-  Evaluation
+  Evaluation & 
   Classifier(partially complete)
