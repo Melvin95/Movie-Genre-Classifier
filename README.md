@@ -7,11 +7,14 @@ CMU Movie Summary Corpus
 
 Naïve Bayes Classifier
 
-Libraries:
+Libraries
+
   Stanford Core NLP API (2016)
   Lucene 6.5.0
   
   
-Incomplete:
+  
+Incomplete
+
   Evaluation
   Classifier(partially complete)
